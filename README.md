@@ -37,9 +37,9 @@ The project serves as a sandbox for experimenting with agent concepts, architect
 
 - **Agent Implementations:**  
   Example implementations and prototypes of selected agents
-  1. Gmail agent [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/prototypes/agent_gmail)
-  2. tools agent [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/prototypes/agent_tools)
-  3. search agent with websearch and RAG [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/prototypes/agent_search)
+  1. Gmail agent [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/prototypes/hello_gmail_agent.ipynb)
+  2. tools agent [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/prototypes/hello_tools_agent.ipynb)
+  3. search agent with websearch and RAG [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/prototypes/hello_search_agent.ipynb)
 
 - **Current Issues:**  
   Challenges and open problems in agent research and application.
