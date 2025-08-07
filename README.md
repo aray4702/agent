@@ -23,6 +23,9 @@ The project serves as a sandbox for experimenting with agent concepts, architect
 
 ## Topics Covered
 
+- **[Understanding Agents](knowledgebase/understanding-agents.md):**  
+  Comprehensive overview of agent concepts, types, architectures, and applications.
+
 - **Building Blocks of Agents:**  
   Fundamental components and principles that make up agent systems.
 
