@@ -37,6 +37,7 @@ The project serves as a sandbox for experimenting with agent concepts, architect
 
 - **Agent Implementations:**  
   Example implementations and prototypes of selected agents.
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/buildingblocks/web_search_agent_colab.ipynb)
 
 - **Current Issues:**  
   Challenges and open problems in agent research and application.
