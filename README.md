@@ -26,6 +26,9 @@ The project serves as a sandbox for experimenting with agent concepts, architect
 - **[Understanding Agents](knowledgebase/understanding-agents.md):**  
   Comprehensive overview of agent concepts, types, architectures, and applications.
 
+- **[Agent Research Frontier](knowledgebase/agent-frontier-issues.md):**  
+  Current challenges and research directions in agent development and deployment.
+
 - **Building Blocks of Agents:**  
   Fundamental components and principles that make up agent systems.
 
