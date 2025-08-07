@@ -36,8 +36,10 @@ The project serves as a sandbox for experimenting with agent concepts, architect
   Architectures and design patterns for various agent types.
 
 - **Agent Implementations:**  
-  Example implementations and prototypes of selected agents.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/buildingblocks/web_search_agent_colab.ipynb)
+  Example implementations and prototypes of selected agents
+  1. Gmail agent [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/prototypes/agent_gmail)
+  2. tools agent [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/prototypes/agent_tools)
+  3. search agent with websearch and RAG [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aray4702/agent/blob/main/prototypes/agent_search)
 
 - **Current Issues:**  
   Challenges and open problems in agent research and application.
